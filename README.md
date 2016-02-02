@@ -18,3 +18,4 @@ Start with small steps:
 3. How do we switch the classes back now?
   - This is easy if we knew what class was currently on the switch
   - Javascript "IF" will give us an easy way, but there's a way to do this by attaching the events to the global scope
+# wk4_NevanRyan
